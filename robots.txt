@@ -1,0 +1,4 @@
+User-agent: *        # Indica que las reglas aplican a todos los robots de búsqueda (Google, Bing, etc.)
+Allow: /             # Permite que los robots accedan y rastreen todo el sitio web
+
+Sitemap: https://tusitio.com/sitemap.xml   # Indica la ubicación del archivo sitemap, que ayuda a los buscadores a encontrar todas las páginas de tu sitio (recuerda cambiar la URL por la real cuando publiques)
